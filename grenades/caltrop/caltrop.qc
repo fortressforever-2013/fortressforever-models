@@ -5,12 +5,12 @@ $scale 0.6
 $surfaceprop metal
 $body studio "caltrop.smd"
 
-$sequence idle "caltrop_idle" ACT_CALTROP_IDLE 1 loop fps 1.00
+$sequence idle "caltrop_idle" ACT_CALTROP_IDLE 1
 
 
 // We have no collision model (?)
 $collisionmodel "caltrop_phy.smd"
 {
-$mass 2.0
-$concave
+	$mass 2.0
+	$concave
 }

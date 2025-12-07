@@ -127,7 +127,7 @@ $attachment "attach_rightArm" "ffSkel_RightArm" 0 0 0 rotate 80 0 0
 $attachment "attach_rightLeg" "ffSkel_RightUpLeg" 0 0 0 rotate 0 0 0
 $attachment "anim_attachment_RH" "ffSkel_att_RightHand" 0 0 0 rotate 0 0 0
 $attachment "anim_attachment_LH" "ffSkel_att_LeftHand" 0 0 0 rotate 0 0 0
-$attachment "ffAtt_flag" "ffSkel_Spine3" 3 5 0 rotate -100 -170 -20
+$attachment "ffAtt_flag" "ffSkel_Spine3" -28 6 -7 rotate -72 180 0
 
 // {
 //    flexfile "/reference/soldier_decap.vta"

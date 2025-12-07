@@ -284,6 +284,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_shotgun_aim_mid_right Swim_shotgun_aim_mid_center Swim_shotgun_aim_mid_left
 		Swim_shotgun_aim_down_right Swim_shotgun_aim_down_center Swim_shotgun_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -305,6 +306,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_shotgun_aim_mid_right Crouch_shotgun_aim_mid_center Crouch_shotgun_aim_mid_left
 		Crouch_shotgun_aim_down_right Crouch_shotgun_aim_down_center Crouch_shotgun_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -326,6 +328,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_shotgun_aim_mid_right Run_shotgun_aim_mid_center Run_shotgun_aim_mid_left
 		Run_shotgun_aim_down_right Run_shotgun_aim_down_center Run_shotgun_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -372,6 +375,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_supershotgun_aim_mid_right Swim_supershotgun_aim_mid_center Swim_supershotgun_aim_mid_left
 		Swim_supershotgun_aim_down_right Swim_supershotgun_aim_down_center Swim_supershotgun_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -393,6 +397,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_supershotgun_aim_mid_right Crouch_supershotgun_aim_mid_center Crouch_supershotgun_aim_mid_left
 		Crouch_supershotgun_aim_down_right Crouch_supershotgun_aim_down_center Crouch_supershotgun_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -414,6 +419,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_supershotgun_aim_mid_right Run_supershotgun_aim_mid_center Run_supershotgun_aim_mid_left
 		Run_supershotgun_aim_down_right Run_supershotgun_aim_down_center Run_supershotgun_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -460,6 +466,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_grenadelauncher_aim_mid_right Swim_grenadelauncher_aim_mid_center Swim_grenadelauncher_aim_mid_left
 		Swim_grenadelauncher_aim_down_right Swim_grenadelauncher_aim_down_center Swim_grenadelauncher_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -481,6 +488,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_grenadelauncher_aim_mid_right Crouch_grenadelauncher_aim_mid_center Crouch_grenadelauncher_aim_mid_left
 		Crouch_grenadelauncher_aim_down_right Crouch_grenadelauncher_aim_down_center Crouch_grenadelauncher_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -502,6 +510,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_grenadelauncher_aim_mid_right Run_grenadelauncher_aim_mid_center Run_grenadelauncher_aim_mid_left
 		Run_grenadelauncher_aim_down_right Run_grenadelauncher_aim_down_center Run_grenadelauncher_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -548,6 +557,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_pipelauncher_aim_mid_right Swim_pipelauncher_aim_mid_center Swim_pipelauncher_aim_mid_left
 		Swim_pipelauncher_aim_down_right Swim_pipelauncher_aim_down_center Swim_pipelauncher_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -590,6 +600,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_pipelauncher_aim_mid_right Run_pipelauncher_aim_mid_center Run_pipelauncher_aim_mid_left
 		Run_pipelauncher_aim_down_right Run_pipelauncher_aim_down_center Run_pipelauncher_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -636,6 +647,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_nailgun_aim_mid_right Swim_nailgun_aim_mid_center Swim_nailgun_aim_mid_left
 		Swim_nailgun_aim_down_right Swim_nailgun_aim_down_center Swim_nailgun_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -657,6 +669,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_nailgun_aim_mid_right Crouch_nailgun_aim_mid_center Crouch_nailgun_aim_mid_left
 		Crouch_nailgun_aim_down_right Crouch_nailgun_aim_down_center Crouch_nailgun_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -678,6 +691,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_nailgun_aim_mid_right Run_nailgun_aim_mid_center Run_nailgun_aim_mid_left
 		Run_nailgun_aim_down_right Run_nailgun_aim_down_center Run_nailgun_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -724,6 +738,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_supernailgun_aim_mid_right Swim_supernailgun_aim_mid_center Swim_supernailgun_aim_mid_left
 		Swim_supernailgun_aim_down_right Swim_supernailgun_aim_down_center Swim_supernailgun_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -745,6 +760,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_supernailgun_aim_mid_right Crouch_supernailgun_aim_mid_center Crouch_supernailgun_aim_mid_left
 		Crouch_supernailgun_aim_down_right Crouch_supernailgun_aim_down_center Crouch_supernailgun_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -766,6 +782,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_supernailgun_aim_mid_right Run_supernailgun_aim_mid_center Run_supernailgun_aim_mid_left
 		Run_supernailgun_aim_down_right Run_supernailgun_aim_down_center Run_supernailgun_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -812,6 +829,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_railgun_aim_mid_right Swim_railgun_aim_mid_center Swim_railgun_aim_mid_left
 		Swim_railgun_aim_down_right Swim_railgun_aim_down_center Swim_railgun_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -833,6 +851,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_railgun_aim_mid_right Crouch_railgun_aim_mid_center Crouch_railgun_aim_mid_left
 		Crouch_railgun_aim_down_right Crouch_railgun_aim_down_center Crouch_railgun_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -854,6 +873,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_railgun_aim_mid_right Run_railgun_aim_mid_center Run_railgun_aim_mid_left
 		Run_railgun_aim_down_right Run_railgun_aim_down_center Run_railgun_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -900,6 +920,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_crowbar_aim_mid_right Swim_crowbar_aim_mid_center Swim_crowbar_aim_mid_left
 		Swim_crowbar_aim_down_right Swim_crowbar_aim_down_center Swim_crowbar_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -921,6 +942,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_crowbar_aim_mid_right Crouch_crowbar_aim_mid_center Crouch_crowbar_aim_mid_left
 		Crouch_crowbar_aim_down_right Crouch_crowbar_aim_down_center Crouch_crowbar_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -942,6 +964,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_crowbar_aim_mid_right Run_crowbar_aim_mid_center Run_crowbar_aim_mid_left
 		Run_crowbar_aim_down_right Run_crowbar_aim_down_center Run_crowbar_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -988,6 +1011,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_shield_aim_mid_right Swim_shield_aim_mid_center Swim_shield_aim_mid_left
 		Swim_shield_aim_down_right Swim_shield_aim_down_center Swim_shield_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1009,6 +1033,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_shield_aim_mid_right Crouch_shield_aim_mid_center Crouch_shield_aim_mid_left
 		Crouch_shield_aim_down_right Crouch_shield_aim_down_center Crouch_shield_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1030,6 +1055,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_shield_aim_mid_right Run_shield_aim_mid_center Run_shield_aim_mid_left
 		Run_shield_aim_down_right Run_shield_aim_down_center Run_shield_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1058,6 +1084,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_shielddeploy_aim_mid_right Swim_shielddeploy_aim_mid_center Swim_shielddeploy_aim_mid_left
 		Swim_shielddeploy_aim_down_right Swim_shielddeploy_aim_down_center Swim_shielddeploy_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1079,6 +1106,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_shielddeploy_aim_mid_right Crouch_shielddeploy_aim_mid_center Crouch_shielddeploy_aim_mid_left
 		Crouch_shielddeploy_aim_down_right Crouch_shielddeploy_aim_down_center Crouch_shielddeploy_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1100,6 +1128,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_shielddeploy_aim_mid_right Run_shielddeploy_aim_mid_center Run_shielddeploy_aim_mid_left
 		Run_shielddeploy_aim_down_right Run_shielddeploy_aim_down_center Run_shielddeploy_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1147,6 +1176,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_flamethrower_aim_mid_right Swim_flamethrower_aim_mid_center Swim_flamethrower_aim_mid_left
 		Swim_flamethrower_aim_down_right Swim_flamethrower_aim_down_center Swim_flamethrower_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1168,6 +1198,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_flamethrower_aim_mid_right Crouch_flamethrower_aim_mid_center Crouch_flamethrower_aim_mid_left
 		Crouch_flamethrower_aim_down_right Crouch_flamethrower_aim_down_center Crouch_flamethrower_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1189,6 +1220,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_flamethrower_aim_mid_right Run_flamethrower_aim_mid_center Run_flamethrower_aim_mid_left
 		Run_flamethrower_aim_down_right Run_flamethrower_aim_down_center Run_flamethrower_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1235,6 +1267,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_spanner_aim_mid_right Swim_spanner_aim_mid_center Swim_spanner_aim_mid_left
 		Swim_spanner_aim_down_right Swim_spanner_aim_down_center Swim_spanner_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1256,6 +1289,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_spanner_aim_mid_right Crouch_spanner_aim_mid_center Crouch_spanner_aim_mid_left
 		Crouch_spanner_aim_down_right Crouch_spanner_aim_down_center Crouch_spanner_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1277,6 +1311,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_spanner_aim_mid_right Run_spanner_aim_mid_center Run_spanner_aim_mid_left
 		Run_spanner_aim_down_right Run_spanner_aim_down_center Run_spanner_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1323,6 +1358,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_knife_aim_mid_right Swim_knife_aim_mid_center Swim_knife_aim_mid_left
 		Swim_knife_aim_down_right Swim_knife_aim_down_center Swim_knife_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1344,6 +1380,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_knife_aim_mid_right Crouch_knife_aim_mid_center Crouch_knife_aim_mid_left
 		Crouch_knife_aim_down_right Crouch_knife_aim_down_center Crouch_knife_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1365,6 +1402,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_knife_aim_mid_right Run_knife_aim_mid_center Run_knife_aim_mid_left
 		Run_knife_aim_down_right Run_knife_aim_down_center Run_knife_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1411,6 +1449,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_umbrella_aim_mid_right Swim_umbrella_aim_mid_center Swim_umbrella_aim_mid_left
 		Swim_umbrella_aim_down_right Swim_umbrella_aim_down_center Swim_umbrella_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1453,6 +1492,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_umbrella_aim_mid_right Run_umbrella_aim_mid_center Run_umbrella_aim_mid_left
 		Run_umbrella_aim_down_right Run_umbrella_aim_down_center Run_umbrella_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1499,6 +1539,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_tranq_aim_mid_right Swim_tranq_aim_mid_center Swim_tranq_aim_mid_left
 		Swim_tranq_aim_down_right Swim_tranq_aim_down_center Swim_tranq_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1520,6 +1561,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_tranq_aim_mid_right Crouch_tranq_aim_mid_center Crouch_tranq_aim_mid_left
 		Crouch_tranq_aim_down_right Crouch_tranq_aim_down_center Crouch_tranq_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1541,6 +1583,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_tranq_aim_mid_right Run_tranq_aim_mid_center Run_tranq_aim_mid_left
 		Run_tranq_aim_down_right Run_tranq_aim_down_center Run_tranq_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1587,6 +1630,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_rpg_aim_mid_right Swim_rpg_aim_mid_center Swim_rpg_aim_mid_left
 		Swim_rpg_aim_down_right Swim_rpg_aim_down_center Swim_rpg_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1608,6 +1652,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_rpg_aim_mid_right Crouch_rpg_aim_mid_center Crouch_rpg_aim_mid_left
 		Crouch_rpg_aim_down_right Crouch_rpg_aim_down_center Crouch_rpg_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1629,6 +1674,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_rpg_aim_mid_right Run_rpg_aim_mid_center Run_rpg_aim_mid_left
 		Run_rpg_aim_down_right Run_rpg_aim_down_center Run_rpg_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1765,6 +1811,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_incendiarycannon_aim_mid_right Swim_incendiarycannon_aim_mid_center Swim_incendiarycannon_aim_mid_left
 		Swim_incendiarycannon_aim_down_right Swim_incendiarycannon_aim_down_center Swim_incendiarycannon_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1786,6 +1833,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_incendiarycannon_aim_mid_right Crouch_incendiarycannon_aim_mid_center Crouch_incendiarycannon_aim_mid_left
 		Crouch_incendiarycannon_aim_down_right Crouch_incendiarycannon_aim_down_center Crouch_incendiarycannon_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1807,6 +1855,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_incendiarycannon_aim_mid_right Run_incendiarycannon_aim_mid_center Run_incendiarycannon_aim_mid_left
 		Run_incendiarycannon_aim_down_right Run_incendiarycannon_aim_down_center Run_incendiarycannon_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1854,6 +1903,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_medkit_aim_mid_right Swim_medkit_aim_mid_center Swim_medkit_aim_mid_left
 		Swim_medkit_aim_down_right Swim_medkit_aim_down_center Swim_medkit_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1875,6 +1925,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_medkit_aim_mid_right Crouch_medkit_aim_mid_center Crouch_medkit_aim_mid_left
 		Crouch_medkit_aim_down_right Crouch_medkit_aim_down_center Crouch_medkit_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1896,6 +1947,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_medkit_aim_mid_right Run_medkit_aim_mid_center Run_medkit_aim_mid_left
 		Run_medkit_aim_down_right Run_medkit_aim_down_center Run_medkit_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1943,6 +1995,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_sniperrifle_aim_mid_right Swim_sniperrifle_aim_mid_center Swim_sniperrifle_aim_mid_left
 		Swim_sniperrifle_aim_down_right Swim_sniperrifle_aim_down_center Swim_sniperrifle_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1964,6 +2017,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_sniperrifle_aim_mid_right Crouch_sniperrifle_aim_mid_center Crouch_sniperrifle_aim_mid_left
 		Crouch_sniperrifle_aim_down_right Crouch_sniperrifle_aim_down_center Crouch_sniperrifle_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -1985,6 +2039,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_sniperrifle_aim_mid_right Run_sniperrifle_aim_mid_center Run_sniperrifle_aim_mid_left
 		Run_sniperrifle_aim_down_right Run_sniperrifle_aim_down_center Run_sniperrifle_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -2031,6 +2086,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_autorifle_aim_mid_right Swim_autorifle_aim_mid_center Swim_autorifle_aim_mid_left
 		Swim_autorifle_aim_down_right Swim_autorifle_aim_down_center Swim_autorifle_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -2053,6 +2109,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_autorifle_aim_mid_right Crouch_autorifle_aim_mid_center Crouch_autorifle_aim_mid_left
 		Crouch_autorifle_aim_down_right Crouch_autorifle_aim_down_center Crouch_autorifle_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -2074,6 +2131,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_autorifle_aim_mid_right Run_autorifle_aim_mid_center Run_autorifle_aim_mid_left
 		Run_autorifle_aim_down_right Run_autorifle_aim_down_center Run_autorifle_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -2121,6 +2179,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_detpack_aim_mid_right Swim_detpack_aim_mid_center Swim_detpack_aim_mid_left
 		Swim_detpack_aim_down_right Swim_detpack_aim_down_center Swim_detpack_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -2142,6 +2201,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_detpack_aim_mid_right Crouch_detpack_aim_mid_center Crouch_detpack_aim_mid_left
 		Crouch_detpack_aim_down_right Crouch_detpack_aim_down_center Crouch_detpack_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -2163,6 +2223,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_detpack_aim_mid_right Run_detpack_aim_mid_center Run_detpack_aim_mid_left
 		Run_detpack_aim_down_right Run_detpack_aim_down_center Run_detpack_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -2210,6 +2271,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_assaultcannon_aim_mid_right Swim_assaultcannon_aim_mid_center Swim_assaultcannon_aim_mid_left
 		Swim_assaultcannon_aim_down_right Swim_assaultcannon_aim_down_center Swim_assaultcannon_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -2231,6 +2293,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_assaultcannon_aim_mid_right Crouch_assaultcannon_aim_mid_center Crouch_assaultcannon_aim_mid_left
 		Crouch_assaultcannon_aim_down_right Crouch_assaultcannon_aim_down_center Crouch_assaultcannon_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -2252,6 +2315,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_assaultcannon_aim_mid_right Run_assaultcannon_aim_mid_center Run_assaultcannon_aim_mid_left
 		Run_assaultcannon_aim_down_right Run_assaultcannon_aim_down_center Run_assaultcannon_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -2299,6 +2363,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_dispenser_aim_mid_right Swim_dispenser_aim_mid_center Swim_dispenser_aim_mid_left
 		Swim_dispenser_aim_down_right Swim_dispenser_aim_down_center Swim_dispenser_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -2320,6 +2385,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_dispenser_aim_mid_right Crouch_dispenser_aim_mid_center Crouch_dispenser_aim_mid_left
 		Crouch_dispenser_aim_down_right Crouch_dispenser_aim_down_center Crouch_dispenser_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -2341,6 +2407,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_dispenser_aim_mid_right Run_dispenser_aim_mid_center Run_dispenser_aim_mid_left
 		Run_dispenser_aim_down_right Run_dispenser_aim_down_center Run_dispenser_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -2388,6 +2455,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_tommygun_aim_mid_right Swim_tommygun_aim_mid_center Swim_tommygun_aim_mid_left
 		Swim_tommygun_aim_down_right Swim_tommygun_aim_down_center Swim_tommygun_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -2409,6 +2477,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_tommygun_aim_mid_right Crouch_tommygun_aim_mid_center Crouch_tommygun_aim_mid_left
 		Crouch_tommygun_aim_down_right Crouch_tommygun_aim_down_center Crouch_tommygun_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -2430,6 +2499,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_tommygun_aim_mid_right Run_tommygun_aim_mid_center Run_tommygun_aim_mid_left
 		Run_tommygun_aim_down_right Run_tommygun_aim_down_center Run_tommygun_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -2477,6 +2547,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Swim_sentrygun_aim_mid_right Swim_sentrygun_aim_mid_center Swim_sentrygun_aim_mid_left
 		Swim_sentrygun_aim_down_right Swim_sentrygun_aim_down_center Swim_sentrygun_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -2498,6 +2569,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Crouch_sentrygun_aim_mid_right Crouch_sentrygun_aim_mid_center Crouch_sentrygun_aim_mid_left
 		Crouch_sentrygun_aim_down_right Crouch_sentrygun_aim_down_center Crouch_sentrygun_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta
@@ -2519,6 +2591,7 @@ $poseparameter "body_yaw" -90 90 loop 360
 		Run_sentrygun_aim_mid_right Run_sentrygun_aim_mid_center Run_sentrygun_aim_mid_left
 		Run_sentrygun_aim_down_right Run_sentrygun_aim_down_center Run_sentrygun_aim_down_left
 		weightlist upperbody
+		hidden
 		blendwidth 3 blend body_yaw -90 90 blend body_pitch -65 65
 		iklock lfoot 1 0 iklock rfoot 1 0
 		delta

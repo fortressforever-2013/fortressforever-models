@@ -107,7 +107,7 @@ $attachment "attach_rightArm" "ffSkel_RightArm" 0 0 0 rotate 0 0 0
 $attachment "attach_rightLeg" "ffSkel_RightUpLeg" 0 0 0 rotate 0 0 0
 $attachment "anim_attachment_RH" "ffSkel_att_RightHand" 0 0 0 rotate 0 0 0
 $attachment "anim_attachment_LH" "ffSkel_att_LeftHand" 0 0 0 rotate 0 0 0
-$attachment "ffAtt_flag" "ffSkel_Spine3" 3 5 0 rotate -100 -170 -20
+$attachment "ffAtt_flag" "ffSkel_Spine3" -30 8 -1 rotate -82 -173 -12
 
 // {
 //    flexfile "/reference/spy_decap.vta"

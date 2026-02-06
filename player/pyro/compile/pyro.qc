@@ -99,7 +99,7 @@ $attachment "attach_rightArm" "ffSkel_RightArm" 0 0 0 rotate 0 0 0
 $attachment "attach_rightLeg" "ffSkel_RightUpLeg" 0 0 0 rotate 0 0 0
 $attachment "anim_attachment_RH" "ffSkel_att_RightHand" 0 0 0 rotate 0 0 0
 $attachment "anim_attachment_LH" "ffSkel_att_LeftHand" 0 0 0 rotate 0 0 0
-$attachment "ffAtt_flag" "ffSkel_Spine3" 8 7 1 rotate -85 -170 -7
+$attachment "ffAtt_flag" "ffSkel_Spine3" -27 5 1 rotate -90 -172 -5
 
 // {
 //    flexfile "/reference/pyro_decap.vta"
